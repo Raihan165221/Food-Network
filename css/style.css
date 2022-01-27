@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: gray;
+}
+
+p{
+    margin: 30px 2px;
+}
+
+.style-button{
+    color: #fff;
+    background-image: linear-gradient(rgb(173, 26, 26), rgb(240, 170, 40));
+    border: none;
+    padding: 10px 15px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.section-margin{
+    margin: 80px;
+    
+}
+.container{
+    display: flex;
+}
+#heading-id{
+    margin-top: 80px;
+}
+
+.half-width{
+    width: 40%;
+}
+
+#heading-img{
+    margin-left: 10%;
+}
+
+.orange-color{
+    color: orange;
+}
+
+#about-id{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.about-img{
+    width: 80%;
+    height: 500px;
+    margin-left: 20%;
+}
+
